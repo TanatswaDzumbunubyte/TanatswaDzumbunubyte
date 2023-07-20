@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @TanatswaDzumbunubyte
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Tanatswa! 👋
+
+## About Me
+I am passionate about Data and have a keen interest in Database Administration, SQL, Python, and Java.
+
+- 👀 I’m interested in: Data, Database Administration, SQL, Python, and Java.
+- 🌱 I’m currently learning: Python and Java.
+- 💞️ I’m looking to collaborate on: Projects related to Data, Database Management, and Software Development using Python or Java.
+- 📫 How to reach me: Email-dzumbunut46@gmail.com
+
+Let's connect and explore the exciting world of data and programming together!
+
 
 <!---
 TanatswaDzumbunubyte/TanatswaDzumbunubyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
