@@ -1,7 +1,7 @@
 # Hi there, I'm Tanatswa! 👋
 
 ## About Me
-I am passionate about Data and have a keen interest in Database Administration, SQL, Python, and Java.
+I am passionate about Data Analysis, have a keen interest in Database Administration and Software QA.
 
 - 👀 I’m interested in: Data, Database Administration, SQL, Python, and Java.
 - 🌱 I’m currently learning: Python and Java.
